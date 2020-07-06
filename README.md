@@ -418,4 +418,4 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [issues-shield]: https://img.shields.io/github/issues/marck20/benchmark-http-servers.svg?style=flat-square
 [issues-url]: https://github.com/marck20/benchmark-http-servers/issues
 [license-shield]: https://img.shields.io/github/license/marck20/benchmark-http-servers.svg?style=flat-square
-[license-url]: https://github.com/marck20/Bbenchmark-http-servers/blob/master/LICENSE.txt
+[license-url]: https://github.com/marck20/benchmark-http-servers/blob/master/LICENSE.txt
