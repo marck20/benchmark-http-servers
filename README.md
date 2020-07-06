@@ -12,28 +12,21 @@
 <p align="center">
 
 
-<!-- --Canviar a docs/ -> <img src="docs/headline.png" alt="gopher1">
- !!!!!!!!!!-->
+
 <img src="docs/banner.png" alt="gopher1">
-
-
-  </a>
-
   <h3 align="center">Benchmarking HTTP servers</h3>
 
   <p align="center">
     Explore performance of Flask and Go servers with ApacheBench like tools.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/marck20/benchmark-http-servers"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/marck20/benchmark-http-servers/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/marck20/benchmark-http-servers/issues">Request Feature</a>
   </p>
 </p>
-<!-- --Canviar a ENLLAÇOS !!!!!!!!!!-->
-
 
 
 <!-- TABLE OF CONTENTS -->
@@ -418,11 +411,11 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[forks-shield]: https://img.shields.io/github/forks/marck20/benchmark-http-servers.svg?style=flat-square
+[forks-url]: https://github.com/marck20/benchmark-http-servers/network/members
+[stars-shield]: https://img.shields.io/github/stars/marck20/benchmark-http-servers.svg?style=flat-square
+[stars-url]: https://github.com/marck20/benchmark-http-servers/stargazers
+[issues-shield]: https://img.shields.io/github/issues/marck20/benchmark-http-servers.svg?style=flat-square
+[issues-url]: https://github.com/marck20/benchmark-http-servers/issues
+[license-shield]: https://img.shields.io/github/license/marck20/benchmark-http-servers.svg?style=flat-square
+[license-url]: https://github.com/marck20/Bbenchmark-http-servers/blob/master/LICENSE.txt
