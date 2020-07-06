@@ -400,7 +400,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Marc Pons - marc.pons.bonnin@est.fib.upc.edu.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/marck20/benchmark-http-servers](https://github.com/marck20/benchmark-http-servers)
 
 
 
@@ -408,7 +408,6 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 
 [forks-shield]: https://img.shields.io/github/forks/marck20/benchmark-http-servers.svg?style=flat-square
