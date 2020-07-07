@@ -398,7 +398,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Marc Pons - marc.pons.bonnin@est.fib.upc.edu.com
+Marc Pons - marc.pons.bonnin@est.fib.upc.edu
 
 Project Link: [https://github.com/marck20/benchmark-http-servers](https://github.com/marck20/benchmark-http-servers)
 
